@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Vue, Streamlit, TensorFlow**
 
-- 📫 How to reach me **asilam192054@gmail.com**
+- 📫 How to reach me **aislam192054@gmail.com**
 
 - ⚡ Fun fact **One piece is better than Naruto**
 
