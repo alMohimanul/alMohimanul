@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aislam192054@gmail.com**
 
-- ⚡ Fun fact **One piece is better than Naruto**
+- ⚡ Fun fact **Jupyter is my favorite planet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
