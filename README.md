@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almohimanul&label=Profile%20views&color=0e75b6&style=flat" alt="almohimanul" /> </p>
 
-- 🔭 I’m currently working on **NDL-ResearchBot**
+- 🔭 I’m currently working on **Nabiq**
 
 - 💬 Ask me about **Vue, Streamlit, TensorFlow**
 
