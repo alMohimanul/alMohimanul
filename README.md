@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al Mohimanul Islam</h1>
+<h1 align="center">Hi 👋, I'm Mahir </h1>
 <h3 align="center">A passionate AI Researcher and Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almohimanul&label=Profile%20views&color=0e75b6&style=flat" alt="almohimanul" /> </p>
