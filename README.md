@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MAHIR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-### ⚡ AI RESEARCHER & MACHINE LEARNING ENGINEER ⚡
-### 🔮 Markopolo AI | Building Intelligent Systems 🔮
+###  AI RESEARCHER & MACHINE LEARNING ENGINEER 
+###  Markopolo AI | Building Intelligent Systems 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+Intent+Prediction+%E2%80%A2+Voice+AI;Building+the+future+of+intelligent+automation;91%25+Accuracy+Intent+Models+%E2%80%A2+26%2B+Languages+Support" alt="Typing SVG" />
@@ -17,28 +17,28 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎯 MISSION CONTROL
+## MISSION CONTROL
 
 > **Currently Engineering:** AI systems that understand and predict human behavior through multimodal intelligence
 
-🔬 **AI-Powered Scientific Paper Critique** → Claim extraction • Assumption mining • Evidence alignment  
-🎤 **Voice Agent Integration** → VAPI + Qdrant vector databases • MCP architecture  
-🌐 **Multi-Channel Orchestration** → 26+ language support • ML-driven personalization  
-🏥 **Medical VQA Research** → Multimodal capabilities • Voice integration  
+**AI-Powered Scientific Paper Critique** → Claim extraction • Assumption mining • Evidence alignment  
+**Voice Agent Integration** → VAPI + Qdrant vector databases • MCP architecture  
+**Multi-Channel Orchestration** → 26+ language support • ML-driven personalization  
+**Medical VQA Research** → Multimodal capabilities • Voice integration  
 
 **Key Achievements:**
-- ⚡ **91%+ Accuracy** in intent prediction using Temporal CNN + LSTM
-- 🌍 **26 Languages** supported in ML content generation pipeline
-- 🎯 **Marktag System** - Advanced behavioral tracking (rage clicks, hesitation, scroll dynamics)
-- 🤖 **Digital Twin Technology** - Personalized marketing automation at scale
+- **91%+ Accuracy** in intent prediction using Temporal CNN + LSTM
+- **26 Languages** supported in ML content generation pipeline
+- **Marktag System** - Advanced behavioral tracking (rage clicks, hesitation, scroll dynamics)
+- **Digital Twin Technology** - Personalized marketing automation at scale
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## ⚙️ TECH STACK & ARSENAL
+## TECH STACK & ARSENAL
 
 <div align="center">
 
-### 🧠 MACHINE LEARNING & AI CORE
+### MACHINE LEARNING & AI CORE
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -48,7 +48,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🔧 BACKEND & INFRASTRUCTURE
+### BACKEND & INFRASTRUCTURE
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,7 +57,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 SPECIALIZATIONS
+### SPECIALIZATIONS
 
 `Computer Vision` • `Natural Language Processing` • `Temporal CNNs` • `LSTM Networks`  
 `Transformers` • `Vector Databases` • `LLM Integration` • `Behavioral Analytics`
@@ -66,7 +66,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## ACHIEVEMENTS UNLOCKED
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=almohimanul&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
@@ -74,7 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 PERFORMANCE METRICS
+## PERFORMANCE METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=almohimanul&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%" />
@@ -88,7 +88,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📈 ACTIVITY MATRIX
+## ACTIVITY MATRIX
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=almohimanul&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&custom_title=Neural%20Activity%20Graph" width="100%" />
@@ -96,14 +96,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 ACTIVE MISSIONS
+## ACTIVE MISSIONS
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 INTENT PREDICTION ENGINE</h3>
+      <h3 align="center">INTENT PREDICTION ENGINE</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Accuracy-91%25+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
       </p>
@@ -147,7 +147,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 OMNI-CHANNEL AI</h3>
+      <h3 align="center">OMNI-CHANNEL AI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Languages-26+-FFD700?style=for-the-badge&logo=google-translate&logoColor=white" />
       </p>
@@ -167,7 +167,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💡 RESEARCH FRONTIERS
+## RESEARCH FRONTIERS
 
 <div align="center">
 
@@ -183,7 +183,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📡 CONNECT TO THE NETWORK
+##  CONNECT TO THE NETWORK
 
 <div align="center">
 
@@ -203,7 +203,7 @@
 
 <div align="center">
 
-### ⚡ "Building intelligent systems that understand and predict human behavior" ⚡
+### "Building intelligent systems that understand and predict human behavior" ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
