@@ -17,15 +17,6 @@ Building a **local-first research tool** that helps researchers **organize, sear
 
 ---
 
-## IMPACT
-
-- **91%+ accuracy** in real-time intent prediction  
-- **26+ languages** supported in production pipelines  
-- End-to-end ML ownership: data → modeling → deployment → optimization  
-- Specialized in **behavioral modeling, temporal patterns, and personalization**
-
----
-
 ## CORE STACK
 
 **AI / ML**  
