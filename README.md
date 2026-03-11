@@ -9,11 +9,11 @@
 </div>
 
 ---
-
 ## CURRENT FOCUS
 
-**PRISM** — Personal Research Intelligence & Synthesis Manager  
-Building an AI system for intelligent knowledge understanding, synthesis, and decision support using multimodal LLM pipelines.
+### lemma-ai — AI-Powered Research Paper Manager
+
+Building a **local-first research tool** that helps researchers **organize, search, and synthesize insights** from their academic paper collections using **semantic search** and **LLM-powered note generation**.
 
 ---
 
