@@ -11,7 +11,7 @@
 ---
 ## CURRENT FOCUS
 
-### lemma-ai — AI-Powered Research Paper Manager
+### Mavyn — AI-Powered Research Paper Manager
 
 Building a **local-first research tool** that helps researchers **organize, search, and synthesize insights** from their academic paper collections using **semantic search** and **LLM-powered note generation**.
 
@@ -26,7 +26,7 @@ Python • PyTorch • TensorFlow • Transformers • scikit-learn • OpenCV
 LLM Integration • RAG • Vector Databases • Multimodal Pipelines • Voice AI  
 
 **Backend / Infra**  
-TypeScript • Node.js • Flask • Django • PostgreSQL  
+TypeScript • Node.js • Flask  • PostgreSQL  • Clickhouse  
 
 ---
 
